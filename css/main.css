@@ -1,0 +1,85 @@
+body {
+  padding-left: 50px;
+  padding-right: 50px;
+  background-image: url(../images/french2.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 50px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 7em;
+  line-height: 2em;
+  color: #FE9901;
+  text-transform: uppercase;
+  text-shadow: 2px 2px #ffffff;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 3em;
+  color: #FE9901;
+}
+
+p {
+  font-family: 'Alegreya', serif;
+  font-size: 1.5em;
+  color: #ffffff;
+}
+
+li {
+  font-family: 'Alegreya', serif;
+  font-size: 1.3em;
+  line-height: 1.5em;
+  color: #ffffff;
+}
+
+img {
+  border-radius: 50%;
+  border: 2px solid #ffffff;
+  margin: 0 50px;
+}
+
+hr {
+  border: 2px dashed #FE9901;
+}
+
+#all {
+  width: 80%;
+  background-color: #212024;
+  margin-right: auto;
+  margin-left: auto;
+  min-width: 900px;
+  max-width: 1280px;
+  box-shadow: 3px 3px 3px #FE9901;
+}
+
+#french {
+  height: 500px;
+  background-image: url(../images/french2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.content1 {
+  margin: 0 20px;
+}
+
+.content2 {
+  margin: 0 20px;
+  padding-bottom: 10px;
+}
+
+.float {
+  float: right;
+  margin: 20px;
+  border-radius: 50%;
+  border: 2px solid #ffffff;
+}
+
+.ing {
+  margin-left: 20px;
+}
